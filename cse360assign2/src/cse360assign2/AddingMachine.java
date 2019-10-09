@@ -3,8 +3,7 @@
  * CLASS ID: 1212667948
  * ASSIGNMENT: #2
  * DESCRIPTION: AddingMachine allows the user to add to and subtract from a total.
- * 		The history of operations performed can be printed to the user
- * 		using the toString() method.
+ * 		The history of operations performed can be printed to the user using the toString() method.
  */
 
 package cse360assign2;
